@@ -16,27 +16,49 @@ It is for security-testing and educational purposes only.
 It includes:
  
 */ Injection vulnerabilities like SQL, SSI, XML/XPath, JSON, LDAP, HTML, iFrame, OS Command and SMTP injection
+
 */ Cross-Site Scripting (XSS), Cross-Site Tracing (XST) and Cross-Site Request Forgery (CSRF)
+
 */ Unrestricted file uploads and backdoor files
+
 */ Authentication, authorization and session management issues
+
 */ Arbitrary file access and directory traversals
+
 */ Local and remote file inclusions (LFI/RFI)
+
 */ Server Side Request Forgery (SSRF)
+
 */ XML External Entity Attacks (XXE)
+
 */ Heartbleed vulnerability (OpenSSL)
+
 */ Shellshock vulnerability (CGI)
+
 */ Drupal SQL injection (Drupageddon)
+
 */ Configuration issues: Man-in-the-Middle, cross-domain policy file, information disclosures,...
+
 */ HTTP parameter pollution and HTTP response splitting
+
 */ Denial-of-Service (DoS) attacks
+
 */ HTML5 ClickJacking, Cross-Origin Resource Sharing (CORS) and web storage issues
+
 */ Unvalidated redirects and forwards
+
 */ Parameter tampering
+
 */ PHP-CGI vulnerability
+
 */ Insecure cryptographic storage
+
 */ AJAX and Web Services issues (JSON/XML/SOAP)
+
 */ Cookie and password reset poisoning
+
 */ Insecure FTP, SNMP and WebDAV configurations
+
 */ and much more...
 
 bWAPP is a PHP application that uses a MySQL database. It can be hosted on Linux and Windows using Apache/IIS and MySQL. It can be installed with WAMP or XAMPP.
