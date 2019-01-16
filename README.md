@@ -1,9 +1,17 @@
 # bWAPP Contest Starting Code v2.2
 
+This is the base source code of the bWAPPv2.2 from itsecgames.com. 
+To ensure consistency use this code base from here and not from itsecgames in case they change anything.
+
+There is an alternative bee-box download which is a 1.2GB vitual Linux box that has the app fully installed. For this contest this is not allowed, you must download and install the app yourself. 
+
+You will use the Sonarqube implementation for all scanning. (As this is a public GIT go see internal posts for the URL and other internal discussion in the Security channel)
+
+First team to a passing scan, wins. 
 
 --------------
 bWAPP - README
-Source: http://http://itsecgames.com/
+Source: http://itsecgames.com/
 --------------
 
 bWAPP, or a buggy web application, is a deliberately insecure web application.
