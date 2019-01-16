@@ -14,7 +14,7 @@ bWAPP covers all major known web vulnerabilities, including all risks from the O
 It is for security-testing and educational purposes only.
 
 It includes:
-
+ 
 */ Injection vulnerabilities like SQL, SSI, XML/XPath, JSON, LDAP, HTML, iFrame, OS Command and SMTP injection
 */ Cross-Site Scripting (XSS), Cross-Site Tracing (XST) and Cross-Site Request Forgery (CSRF)
 */ Unrestricted file uploads and backdoor files
